@@ -1,0 +1,1392 @@
+{
+    "102": {
+        "name": "Abyei",
+        "year1": 2011,
+        "year2": 3000
+    },
+    "1": {
+        "name": "Afghanistan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "2": {
+        "name": "Aksai Chin",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "3": {
+        "name": "Albania",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "4": {
+        "name": "Algeria",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "5": {
+        "name": "American Samoa",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "7": {
+        "name": "Andorra",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "8": {
+        "name": "Angola",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "9": {
+        "name": "Anguilla",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "10": {
+        "name": "Antarctica",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "11": {
+        "name": "Antigua and Barbuda",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "12": {
+        "name": "Argentina",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "13": {
+        "name": "Armenia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "14": {
+        "name": "Aruba",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "15": {
+        "name": "Arunachal Pradesh",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "16": {
+        "name": "Ashmore and Cartier Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "17": {
+        "name": "Australia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "18": {
+        "name": "Austria",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "19": {
+        "name": "Azerbaijan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "74578": {
+        "name": "Azores Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "20": {
+        "name": "Bahamas",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "21": {
+        "name": "Bahrain",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "22": {
+        "name": "Baker Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "23": {
+        "name": "Bangladesh",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "24": {
+        "name": "Barbados",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "25": {
+        "name": "Bassas da India",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "26": {
+        "name": "Belarus",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "27": {
+        "name": "Belgium",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "28": {
+        "name": "Belize",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "29": {
+        "name": "Benin",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "30": {
+        "name": "Bermuda",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "31": {
+        "name": "Bhutan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "32": {
+        "name": "Bird Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "33": {
+        "name": "Bolivia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "34": {
+        "name": "Bosnia and Herzegovina",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "35": {
+        "name": "Botswana",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "36": {
+        "name": "Bouvet Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "37": {
+        "name": "Brazil",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "38": {
+        "name": "British Indian Ocean Territory",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "39": {
+        "name": "British Virgin Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "40": {
+        "name": "Brunei Darussalam",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "41": {
+        "name": "Bulgaria",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "42": {
+        "name": "Burkina Faso",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "43": {
+        "name": "Burundi",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "44": {
+        "name": "Cambodia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "45": {
+        "name": "Cameroon",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "46": {
+        "name": "Canada",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "47": {
+        "name": "Cape Verde",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "48": {
+        "name": "Cayman Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "49": {
+        "name": "Central African Republic",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "50": {
+        "name": "Chad",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "51": {
+        "name": "Chile",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "147295": {
+        "name": "China",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "52": {
+        "name": "China/India",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "54": {
+        "name": "Christmas Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "55": {
+        "name": "Clipperton Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "56": {
+        "name": "Cocos (Keeling) Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "57": {
+        "name": "Colombia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "58": {
+        "name": "Comoros",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "59": {
+        "name": "Congo",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "60": {
+        "name": "Cook Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "61": {
+        "name": "Costa Rica",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "66": {
+        "name": "C\u00f4te d'Ivoire",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "62": {
+        "name": "Croatia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "63": {
+        "name": "Cuba",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "64": {
+        "name": "Cyprus",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "65": {
+        "name": "Czech Republic",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "67": {
+        "name": "Dem People's Rep of Korea",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "68": {
+        "name": "Democratic Republic of the Congo",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "69": {
+        "name": "Denmark",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "70": {
+        "name": "Djibouti",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "71": {
+        "name": "Dominica",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "72": {
+        "name": "Dominican Republic",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "73": {
+        "name": "Ecuador",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "40765": {
+        "name": "Egypt",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "75": {
+        "name": "El Salvador",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "76": {
+        "name": "Equatorial Guinea",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "77": {
+        "name": "Eritrea",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "78": {
+        "name": "Estonia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "79": {
+        "name": "Ethiopia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "80": {
+        "name": "Europa Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "81": {
+        "name": "Falkland Islands (Malvinas)",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "82": {
+        "name": "Faroe Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "83": {
+        "name": "Fiji",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "84": {
+        "name": "Finland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "85": {
+        "name": "France",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "86": {
+        "name": "French Guiana",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "87": {
+        "name": "French Polynesia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "88": {
+        "name": "French Southern and Antarctic Territories",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "89": {
+        "name": "Gabon",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "90": {
+        "name": "Gambia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "91": {
+        "name": "Gaza Strip",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "92": {
+        "name": "Georgia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "93": {
+        "name": "Germany",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "94": {
+        "name": "Ghana",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "95": {
+        "name": "Gibraltar",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "96": {
+        "name": "Glorioso Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "97": {
+        "name": "Greece",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "98": {
+        "name": "Greenland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "99": {
+        "name": "Grenada",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "100": {
+        "name": "Guadeloupe",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "101": {
+        "name": "Guam",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "103": {
+        "name": "Guatemala",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "104": {
+        "name": "Guernsey",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "106": {
+        "name": "Guinea",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "105": {
+        "name": "Guinea-Bissau",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "107": {
+        "name": "Guyana",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "108": {
+        "name": "Haiti",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "40760": {
+        "name": "Hala'ib triangle",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "109": {
+        "name": "Heard Island and McDonald Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "110": {
+        "name": "Holy See",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "111": {
+        "name": "Honduras",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "33364": {
+        "name": "Hong Kong",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "112": {
+        "name": "Howland Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "113": {
+        "name": "Hungary",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "114": {
+        "name": "Iceland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "61013": {
+        "name": "Ilemi triangle",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "115": {
+        "name": "India",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "116": {
+        "name": "Indonesia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "117": {
+        "name": "Iran (Islamic Republic of)",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "118": {
+        "name": "Iraq",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "119": {
+        "name": "Ireland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "120": {
+        "name": "Isle of Man",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "121": {
+        "name": "Israel",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "122": {
+        "name": "Italy",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "123": {
+        "name": "Jamaica",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "40781": {
+        "name": "Jammu and Kashmir",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "126": {
+        "name": "Japan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "127": {
+        "name": "Jarvis Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "128": {
+        "name": "Jersey",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "129": {
+        "name": "Johnston Atoll",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "130": {
+        "name": "Jordan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "131": {
+        "name": "Juan de Nova Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "132": {
+        "name": "Kazakhstan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "133": {
+        "name": "Kenya",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "134": {
+        "name": "Kingman Reef",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "135": {
+        "name": "Kiribati",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "136": {
+        "name": "Kuril islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "137": {
+        "name": "Kuwait",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "138": {
+        "name": "Kyrgyzstan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "139": {
+        "name": "Lao People's Democratic Republic",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "140": {
+        "name": "Latvia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "141": {
+        "name": "Lebanon",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "142": {
+        "name": "Lesotho",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "144": {
+        "name": "Liberia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "145": {
+        "name": "Libya",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "146": {
+        "name": "Liechtenstein",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "147": {
+        "name": "Lithuania",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "148": {
+        "name": "Luxembourg",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "149": {
+        "name": "Macau",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "150": {
+        "name": "Madagascar",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "151": {
+        "name": "Madeira Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "152": {
+        "name": "Malawi",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "153": {
+        "name": "Malaysia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "154": {
+        "name": "Maldives",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "155": {
+        "name": "Mali",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "156": {
+        "name": "Malta",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "157": {
+        "name": "Marshall Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "158": {
+        "name": "Martinique",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "40762": {
+        "name": "Ma'tan al-Sarra",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "159": {
+        "name": "Mauritania",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "160": {
+        "name": "Mauritius",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "161": {
+        "name": "Mayotte",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "162": {
+        "name": "Mexico",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "163": {
+        "name": "Micronesia (Federated States of)",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "164": {
+        "name": "Midway Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "165": {
+        "name": "Moldova, Republic of",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "166": {
+        "name": "Monaco",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "167": {
+        "name": "Mongolia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "2647": {
+        "name": "Montenegro",
+        "year1": 2006,
+        "year2": 3000
+    },
+    "168": {
+        "name": "Montserrat",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "169": {
+        "name": "Morocco",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "170": {
+        "name": "Mozambique",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "171": {
+        "name": "Myanmar",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "172": {
+        "name": "Namibia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "173": {
+        "name": "Nauru",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "174": {
+        "name": "Navassa Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "175": {
+        "name": "Nepal",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "177": {
+        "name": "Netherlands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "176": {
+        "name": "Netherlands Antilles",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "178": {
+        "name": "New Caledonia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "179": {
+        "name": "New Zealand",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "180": {
+        "name": "Nicaragua",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "181": {
+        "name": "Niger",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "182": {
+        "name": "Nigeria",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "183": {
+        "name": "Niue",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "184": {
+        "name": "Norfolk Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "185": {
+        "name": "Northern Mariana Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "186": {
+        "name": "Norway",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "187": {
+        "name": "Oman",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "188": {
+        "name": "Pakistan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "189": {
+        "name": "Palau",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "190": {
+        "name": "Palmyra Atoll",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "191": {
+        "name": "Panama",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "192": {
+        "name": "Papua New Guinea",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "193": {
+        "name": "Paracel Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "194": {
+        "name": "Paraguay",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "195": {
+        "name": "Peru",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "196": {
+        "name": "Philippines",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "197": {
+        "name": "Pitcairn",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "198": {
+        "name": "Poland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "199": {
+        "name": "Portugal",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "200": {
+        "name": "Puerto Rico",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "201": {
+        "name": "Qatar",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "202": {
+        "name": "Republic of Korea",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "206": {
+        "name": "R\u00e9union",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "203": {
+        "name": "Romania",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "204": {
+        "name": "Russian Federation",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "205": {
+        "name": "Rwanda",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "207": {
+        "name": "Saint Helena",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "208": {
+        "name": "Saint Kitts and Nevis",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "209": {
+        "name": "Saint Lucia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "210": {
+        "name": "Saint Pierre et Miquelon",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "211": {
+        "name": "Saint Vincent and the Grenadines",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "212": {
+        "name": "Samoa",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "213": {
+        "name": "San Marino",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "214": {
+        "name": "Sao Tome and Principe",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "215": {
+        "name": "Saudi Arabia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "216": {
+        "name": "Scarborough Reef",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "217": {
+        "name": "Senegal",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "218": {
+        "name": "Senkaku Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "2648": {
+        "name": "Serbia",
+        "year1": 2006,
+        "year2": 3000
+    },
+    "219": {
+        "name": "Serbia and Montenegro",
+        "year1": 1000,
+        "year2": 2005
+    },
+    "220": {
+        "name": "Seychelles",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "221": {
+        "name": "Sierra Leone",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "222": {
+        "name": "Singapore",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "223": {
+        "name": "Slovakia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "224": {
+        "name": "Slovenia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "225": {
+        "name": "Solomon Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "226": {
+        "name": "Somalia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "227": {
+        "name": "South Africa",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "228": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "74": {
+        "name": "South Sudan",
+        "year1": 2011,
+        "year2": 3000
+    },
+    "229": {
+        "name": "Spain",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "230": {
+        "name": "Spratly Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "231": {
+        "name": "Sri Lanka",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "6": {
+        "name": "Sudan",
+        "year1": 2011,
+        "year2": 3000
+    },
+    "40764": {
+        "name": "Sudan",
+        "year1": 1000,
+        "year2": 2010
+    },
+    "233": {
+        "name": "Suriname",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "234": {
+        "name": "Svalbard and Jan Mayen Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "235": {
+        "name": "Swaziland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "236": {
+        "name": "Sweden",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "237": {
+        "name": "Switzerland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "238": {
+        "name": "Syrian Arab Republic",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "147296": {
+        "name": "Taiwan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "239": {
+        "name": "Tajikistan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "240": {
+        "name": "Thailand",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "241": {
+        "name": "The former Yugoslav Republic of Macedonia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "242": {
+        "name": "Timor-Leste",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "243": {
+        "name": "Togo",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "244": {
+        "name": "Tokelau",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "245": {
+        "name": "Tonga",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "246": {
+        "name": "Trinidad and Tobago",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "247": {
+        "name": "Tromelin Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "248": {
+        "name": "Tunisia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "249": {
+        "name": "Turkey",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "250": {
+        "name": "Turkmenistan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "251": {
+        "name": "Turks and Caicos islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "252": {
+        "name": "Tuvalu",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "256": {
+        "name": "U.K. of Great Britain and Northern Ireland",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "253": {
+        "name": "Uganda",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "254": {
+        "name": "Ukraine",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "255": {
+        "name": "United Arab Emirates",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "257": {
+        "name": "United Republic of Tanzania",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "259": {
+        "name": "United States of America",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "258": {
+        "name": "United States Virgin Islands",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "260": {
+        "name": "Uruguay",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "261": {
+        "name": "Uzbekistan",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "262": {
+        "name": "Vanuatu",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "263": {
+        "name": "Venezuela (Bolivarian Republic of)",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "264": {
+        "name": "Viet Nam",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "265": {
+        "name": "Wake Island",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "266": {
+        "name": "Wallis and Futuna",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "267": {
+        "name": "West Bank",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "268": {
+        "name": "Western Sahara",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "269": {
+        "name": "Yemen",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "270": {
+        "name": "Zambia",
+        "year1": 1000,
+        "year2": 3000
+    },
+    "271": {
+        "name": "Zimbabwe",
+        "year1": 1000,
+        "year2": 3000
+    }
+}
