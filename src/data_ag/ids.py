@@ -89,7 +89,8 @@ class ComodityIdsManager:
 
     def get_all_ids(self) -> List[int]:
         return self.df["Id"].tolist()
-    
+
+
 class Adm0CodeManager:
     def __init__(self):
         self.data = self._generate_data()
@@ -97,7 +98,7 @@ class Adm0CodeManager:
     def _generate_data(self):
         data = {}
         for line in ADM0CODEData.strip().splitlines():
-            id_str, name, y1, y2 = line.split('\t')
+            id_str, name, y1, y2 = line.split("\t")
             data[int(id_str)] = {"name": name, "year1": int(y1), "year2": int(y2)}
         return data
 
@@ -106,9 +107,8 @@ class Adm0CodeManager:
             if info["name"].lower() == country_name.lower():
                 return code
         raise ValueError(f"Country '{country_name}' not found in ADM0CODE data.")
-    
+
     def get_country_for_code(self, code):
         if code in self.data:
             return self.data[code]["name"]
         raise ValueError(f"Code '{code}' not found in ADM0CODE data.")
-
