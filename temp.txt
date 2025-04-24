@@ -1,0 +1,154 @@
+
+You are a professional trends reporter working for a humanitarian or economic monitoring agency.
+Using the information below, write a formal, fact-based situation update. This report should follow the structure and tone of official UN or humanitarian bulletins.
+
+
+CountryName,Adm1Name,Adm2Name,MarketID,MarketName,SurveyID,SurveyDate,MFIRiskLevel,MFIScore,Assortment,Availability,Price,Resilience,Competition,Infrastructure,Service,Quality,AccessProtection,SurveyType
+Syrian Arab Republic,Al-Hasakeh,Quamishli,1125,Quamishli,2791,01/06/2023,Very High Risk,3.991675853729248,5.0,10.0,0.0,7.5,10.0,10.0,5.0,10.0,10.0,Full
+Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,5257,Sbeikhan,2791,01/06/2023,Very High Risk,2.9308786392211914,4.0,8.333333015441895,0.0,7.5,10.0,5.714285850524902,1.6666666269302368,1.25,10.0,Full
+Syrian Arab Republic,Rural Damascus,Rural Damascus,1354,Jaramana,2791,01/06/2023,Medium Risk,5.278072357177734,9.0,10.0,2.5,7.5,10.0,7.142857074737549,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Al-Hasakeh,Quamishli,1125,Quamishli,4970,22/01/2025,Low Risk,6.475244998931885,5.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Rural Damascus,2687,Saqba,2791,01/06/2023,Medium Risk,6.055994033813477,8.0,10.0,4.166666507720947,7.5,10.0,6.428571224212647,5.0,6.25,10.0,Full
+Syrian Arab Republic,Rural Damascus,Rural Damascus,1354,Jaramana,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Duma,1117,Duma,4970,22/01/2025,Medium Risk,5.028070449829102,7.5,8.333333015441895,2.5,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Qatana,5931,Jdaideh,4970,22/01/2025,Low Risk,6.581283092498779,5.0,10.0,5.833333492279053,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Rural Damascus,1115,Qudsiya,2791,01/06/2023,Medium Risk,5.736290454864502,8.0,10.0,3.3333332538604736,7.5,10.0,6.428571224212647,5.0,8.75,10.0,Full
+Syrian Arab Republic,Quneitra,Quneitra,1554,Khan Arnaba,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Tartous,Sheikh Badr,5932,Sheikh Badr,2791,01/06/2023,Very High Risk,4.074526786804199,5.0,10.0,0.0,10.0,10.0,8.571428298950195,6.666666507720947,8.75,10.0,Full
+Syrian Arab Republic,Al-Hasakeh,Al-Hasakeh,1124,Al-Hasakeh,2791,01/06/2023,Very High Risk,3.3816027641296387,5.0,10.0,0.0,7.5,5.0,5.714285850524902,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,As-Sweida,As-Sweida,1559,As-Sweida,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Damascus,Damascus,1558,Shrebishat,4970,22/01/2025,Low Risk,9.16018772125244,10.0,8.333333015441895,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Harim,2706,Harem,4970,22/01/2025,Medium Risk,6.070864200592041,10.0,10.0,3.3333332538604736,10.0,,,,,,Reduced
+Syrian Arab Republic,Al-Hasakeh,Al-Hasakeh,5256,Tell Tamer,4970,22/01/2025,Low Risk,6.475244998931885,5.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Jisr-Ash-Shugur,4612,Jisr al shughur,4970,22/01/2025,Low Risk,8.654739379882812,10.0,10.0,7.5,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Izra',2686,Nawa,2791,01/06/2023,Very High Risk,4.825047492980957,5.0,10.0,5.0,2.5,10.0,4.285714149475098,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Tartous,Safita,1553,Rural Safita,2791,01/06/2023,Very High Risk,4.144115924835205,5.0,10.0,0.0,10.0,10.0,8.571428298950195,6.666666507720947,10.0,10.0,Full
+Syrian Arab Republic,Ar-Raqqa,Ath-Thawrah,2678,Al Tabqah,2791,01/06/2023,Very High Risk,3.365015983581543,6.0,10.0,0.0,6.666666030883789,,,5.0,,,Full
+Syrian Arab Republic,Aleppo,Jebel Saman,1142,Aleppo,2791,01/06/2023,Very High Risk,3.2329647541046143,4.0,10.0,0.0,7.5,10.0,5.714285850524902,1.6666666269302368,5.0,10.0,Full
+Syrian Arab Republic,Aleppo,Jebel Saman,2676,Atareb,4970,22/01/2025,Medium Risk,5.2375311851501465,10.0,7.5,2.5,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,5258,Shmetiyeh,2791,01/06/2023,High Risk,3.8331029415130615,3.0,8.333333015441895,2.5,7.5,10.0,4.285714149475098,1.6666666269302368,2.5,10.0,Full
+Syrian Arab Republic,Al-Hasakeh,Al-Hasakeh,5256,Tell Tamer,2791,01/06/2023,Very High Risk,3.491725444793701,4.0,10.0,0.0,10.0,9.166666984558104,2.857142925262451,5.0,7.5,10.0,Full
+Syrian Arab Republic,Damascus,Damascus,2680,Al Midan,2791,01/06/2023,Very High Risk,4.331028461456299,5.0,10.0,0.8333333134651184,10.0,9.166666984558104,5.714285850524902,6.666666507720947,8.75,10.0,Full
+Syrian Arab Republic,Dar'a,As-Sanamayn,1119,As-Sanamayn,2791,01/06/2023,Medium Risk,5.645059108734131,5.0,10.0,3.3333332538604736,10.0,10.0,5.714285850524902,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Lattakia,Lattakia,1133,Lattakia,2791,01/06/2023,Very High Risk,3.3125979900360107,4.0,6.666666507720947,0.0,6.25,10.0,7.142857074737549,5.0,8.75,7.5,Full
+Syrian Arab Republic,Hama,Muhradah,1138,Muhradah,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Homs,Ar-Rastan,1927,Ar-Rastan,2791,01/06/2023,Medium Risk,5.708327293395996,10.0,10.0,3.3333332538604736,7.5,9.166666984558104,6.428571224212647,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Hama,Hama,1136,Hama,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Ar-Raqqa,Tell Abiad,2689,Ein Issa,4970,22/01/2025,Very High Risk,3.835064888000488,8.75,10.0,0.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Rural Damascus,1115,Qudsiya,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,Afrin,1949,Afrin,4970,22/01/2025,Very High Risk,3.991675853729248,10.0,10.0,0.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Jisr-Ash-Shugur,4612,Jisr al shughur,2791,01/06/2023,Low Risk,5.979124546051025,8.0,10.0,6.666666507720947,7.5,10.0,7.857142925262451,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Aleppo,Jebel Saman,1142,Aleppo,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,A'zaz,1926,A'zaz,4970,22/01/2025,Medium Risk,6.5899271965026855,10.0,10.0,4.166666507720947,10.0,,,,,,Reduced
+Syrian Arab Republic,Homs,Ar-Rastan,1928,Talbiseh,2791,01/06/2023,Very High Risk,3.978419065475464,10.0,10.0,0.0,7.5,10.0,6.428571224212647,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Quneitra,Al Fiq,2524,Sayda,4970,22/01/2025,Very High Risk,4.146097183227539,8.75,8.333333015441895,0.8333333134651184,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Dar'a,5079,Busra al Sham,4970,22/01/2025,Low Risk,8.654739379882812,10.0,10.0,7.5,10.0,,,,,,Reduced
+Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,1127,Ar-Raqqa,2791,01/06/2023,Very High Risk,3.521739959716797,7.0,10.0,0.0,7.5,,,6.666666507720947,,,Full
+Syrian Arab Republic,Dar'a,Izra',2237,Hrak,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Tartous,Safita,1553,Rural Safita,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Hama,Hama,1136,Hama,2791,01/06/2023,Medium Risk,5.734292984008789,6.0,10.0,3.3333332538604736,7.5,10.0,7.142857074737549,5.0,10.0,10.0,Full
+Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,5259,Tebni,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Qatana,5931,Jdaideh,2791,01/06/2023,Very High Risk,3.962510585784912,9.0,10.0,0.0,9.583333015441896,9.166666984558104,7.142857074737549,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Lattakia,Jablah,1134,Jablah,2791,01/06/2023,Very High Risk,3.8557825088500977,5.0,10.0,0.0,10.0,10.0,7.142857074737549,6.666666507720947,8.75,7.5,Full
+Syrian Arab Republic,Damascus,Damascus,2680,Al Midan,4970,22/01/2025,Low Risk,9.16018772125244,10.0,8.333333015441895,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Lattakia,Jablah,1134,Jablah,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Al-Hasakeh,Al-Hasakeh,1124,Al-Hasakeh,4970,22/01/2025,Low Risk,6.634200572967529,8.75,7.5,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Harim,5644,Sarmada,4970,22/01/2025,Low Risk,6.634200572967529,8.75,7.5,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,1121,Deir-ez-Zor,2791,01/06/2023,Very High Risk,3.345111131668091,5.0,8.333333015441895,0.0,7.5,10.0,7.142857074737549,1.6666666269302368,6.25,10.0,Full
+Syrian Arab Republic,Hama,Muhradah,1138,Muhradah,2791,01/06/2023,Very High Risk,4.015537738800049,9.0,10.0,0.0,7.5,10.0,6.428571224212647,5.0,10.0,10.0,Full
+Syrian Arab Republic,As-Sweida,Shahba,1556,Shahba,4970,22/01/2025,Low Risk,7.3085784912109375,7.5,10.0,5.833333492279053,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,Afrin,1949,Afrin,3531,07/04/2024,Low Risk,6.213727951049805,10.0,10.0,8.333333015441895,10.0,10.0,7.142857074737549,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Aleppo,Menbij,2784,Maskanah,2791,01/06/2023,Very High Risk,3.937348127365112,4.0,10.0,3.3333332538604736,6.25,9.166666984558104,1.4285714626312256,3.3333332538604736,6.25,10.0,Full
+Syrian Arab Republic,Ar-Raqqa,Ath-Thawrah,2678,Al Tabqah,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Al-Hasakeh,Al-Malikeyyeh,5255,Maabada,4970,22/01/2025,Medium Risk,5.28399658203125,8.75,3.3333332538604736,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,1121,Deir-ez-Zor,4970,22/01/2025,Very High Risk,4.511754512786865,10.0,10.0,0.8333333134651184,10.0,,,,,,Reduced
+Syrian Arab Republic,As-Sweida,Shahba,1556,Shahba,2791,01/06/2023,Very High Risk,3.75832200050354,7.0,10.0,0.0,10.0,10.0,7.142857074737549,1.6666666269302368,7.5,10.0,Full
+Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,1548,Al Mayadin,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Al Ma'ra,5928,Senjar,2791,01/06/2023,Very High Risk,3.223673343658448,8.0,10.0,0.0,7.5,5.0,0.7142857313156128,5.0,7.5,10.0,Full
+Syrian Arab Republic,As-Sweida,Salkhad,5251,Salkhad,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Izra',2237,Hrak,2791,01/06/2023,Low Risk,5.7183146476745605,5.0,10.0,5.0,7.5,10.0,7.857142925262451,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Rural Damascus,Rural Damascus,2687,Saqba,4970,22/01/2025,Medium Risk,6.475244998931885,10.0,10.0,5.0,5.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,5257,Sbeikhan,4970,22/01/2025,Very High Risk,4.511754512786865,10.0,10.0,0.8333333134651184,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Abu Kamal,2785,Bu Kamal,2791,01/06/2023,Very High Risk,3.4678454399108887,5.0,10.0,0.0,10.0,10.0,6.428571224212647,1.6666666269302368,5.0,10.0,Full
+Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,5258,Shmetiyeh,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Tartous,Tartous,1130,Tartous,2791,01/06/2023,Very High Risk,4.0910964012146,5.0,10.0,0.0,6.666666030883789,10.0,9.285714149475098,8.333333015441895,10.0,10.0,Full
+Syrian Arab Republic,Idleb,Idleb,1547,Idleb,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Quneitra,Quneitra,2690,Al Kom,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Homs,Homs,1929,Inshaat,2791,01/06/2023,Very High Risk,3.70461368560791,8.0,8.333333015441895,0.0,6.25,10.0,6.428571224212647,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Damascus,Damascus,1112,Sheikh Sa'ad,2791,01/06/2023,Medium Risk,5.6563825607299805,8.0,10.0,3.3333332538604736,7.5,10.0,5.0,5.0,8.75,10.0,Full
+Syrian Arab Republic,Aleppo,Jebel Saman,2676,Atareb,2649,15/01/2023,Low Risk,8.082527160644531,8.0,10.0,10.0,7.5,10.0,9.285714149475098,6.666666507720947,10.0,10.0,Full
+Syrian Arab Republic,Tartous,Tartous,1130,Tartous,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Izra',2686,Nawa,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Idleb,1547,Idleb,2649,15/01/2023,Low Risk,8.148653030395508,10.0,10.0,10.0,7.5,9.166666984558104,9.285714149475098,6.666666507720947,10.0,10.0,Full
+Syrian Arab Republic,As-Sweida,Salkhad,5252,Qarraya,2791,01/06/2023,Very High Risk,2.9727213382720947,6.0,5.833333492279053,0.0,8.75,5.0,5.714285850524902,1.6666666269302368,6.25,10.0,Full
+Syrian Arab Republic,Hama,As-Suqaylabiyah,2683,As-Suqaylabiyah,2791,01/06/2023,Very High Risk,4.015537738800049,9.0,10.0,0.0,7.5,10.0,6.428571224212647,5.0,10.0,10.0,Full
+Syrian Arab Republic,Dar'a,Dar'a,5079,Busra al Sham,2791,01/06/2023,Low Risk,5.7482733726501465,5.0,10.0,5.0,10.0,10.0,7.142857074737549,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Dar'a,Dar'a,1555,Mzeireb,2791,01/06/2023,Medium Risk,5.645059108734131,5.0,10.0,3.3333332538604736,10.0,10.0,5.714285850524902,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Dar'a,Dar'a,2679,Al Balad,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Abu Kamal,2785,Bu Kamal,4970,22/01/2025,Medium Risk,6.070864200592041,10.0,10.0,3.3333332538604736,10.0,,,,,,Reduced
+Syrian Arab Republic,Homs,Ar-Rastan,1928,Talbiseh,4970,22/01/2025,Medium Risk,5.756594181060791,7.5,3.3333332538604736,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Hama,As-Suqaylabiyah,2683,As-Suqaylabiyah,4970,22/01/2025,Low Risk,9.40625,8.75,10.0,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Hama,As-Salamiyeh,1948,As-Salamiyeh,2791,01/06/2023,Very High Risk,3.6111111640930176,9.0,10.0,0.0,7.5,9.166666984558104,5.0,5.0,5.0,10.0,Full
+Syrian Arab Republic,Lattakia,Al-Qardaha,5929,Qurdaha,4970,22/01/2025,Low Risk,6.634200572967529,6.25,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,As-Safira,2675,As-Safira,2791,01/06/2023,Very High Risk,3.5043282508850098,5.0,10.0,0.0,7.5,10.0,5.0,5.0,6.25,10.0,Full
+Syrian Arab Republic,Idleb,Idleb,1550,Bennsh,2791,01/06/2023,Low Risk,6.877957344055176,10.0,10.0,5.0,7.5,10.0,7.142857074737549,5.0,10.0,10.0,Full
+Syrian Arab Republic,Hama,Masyaf,1137,Masyaf,2791,01/06/2023,Very High Risk,3.998967170715332,9.0,10.0,0.0,7.5,10.0,5.714285850524902,6.666666507720947,8.75,10.0,Full
+Syrian Arab Republic,Idleb,Harim,5644,Sarmada,2791,01/06/2023,Low Risk,6.958180904388428,5.0,10.0,10.0,7.5,10.0,8.571428298950195,5.0,10.0,10.0,Full
+Syrian Arab Republic,Dar'a,Izra',2523,Izr'a,2791,01/06/2023,Very High Risk,6.475244998931885,6.0,10.0,5.0,8.333333015441895,,,3.3333332538604736,,,Full
+Syrian Arab Republic,Aleppo,A'zaz,1926,A'zaz,2649,15/01/2023,Low Risk,7.318387031555176,10.0,10.0,5.0,9.166666984558104,10.0,10.0,8.333333015441895,10.0,10.0,Full
+Syrian Arab Republic,Homs,Tall Kalakh,2685,Hawash,2791,01/06/2023,Medium Risk,6.147563457489014,6.0,10.0,4.166666507720947,7.5,9.166666984558104,7.142857074737549,5.0,10.0,10.0,Full
+Syrian Arab Republic,Lattakia,Lattakia,1133,Lattakia,4970,22/01/2025,Low Risk,6.475244998931885,5.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,Al Bab,1144,Al Bab,2649,15/01/2023,Low Risk,8.179647445678711,9.0,10.0,10.0,7.5,10.0,10.0,6.666666507720947,10.0,10.0,Full
+Syrian Arab Republic,Dar'a,Dar'a,1118,Dar'a,2791,01/06/2023,Low Risk,5.734292984008789,6.0,10.0,5.0,7.5,10.0,7.142857074737549,3.3333332538604736,10.0,10.0,Full
+Syrian Arab Republic,Homs,Homs,1931,Hula,2791,01/06/2023,Very High Risk,4.158538818359375,10.0,10.0,0.8333333134651184,7.5,8.333333015441895,4.285714149475098,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Rural Damascus,Duma,1117,Duma,2791,01/06/2023,High Risk,5.309357166290283,9.0,10.0,4.166666507720947,9.166666984558104,10.0,2.857142925262451,6.666666507720947,3.75,10.0,Full
+Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,5254,Sabkha,4970,22/01/2025,Medium Risk,6.315542221069336,8.75,10.0,5.0,5.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,As-Safira,2675,As-Safira,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Dar'a,1118,Dar'a,4970,22/01/2025,Low Risk,6.475244998931885,5.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Damascus,Damascus,1558,Shrebishat,2791,01/06/2023,Very High Risk,3.7157211303710938,7.0,10.0,0.8333333134651184,7.5,6.666666507720947,2.857142925262451,1.6666666269302368,8.571428298950195,10.0,Full
+Syrian Arab Republic,Idleb,Harim,2706,Harem,3531,07/04/2024,Low Risk,7.238434314727783,10.0,10.0,10.0,7.5,10.0,8.571428298950195,5.0,10.0,10.0,Full
+Syrian Arab Republic,Hama,Masyaf,1137,Masyaf,4970,22/01/2025,Low Risk,10.0,10.0,10.0,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,As-Sweida,Salkhad,5252,Qarraya,4970,22/01/2025,Low Risk,7.458492755889893,6.25,10.0,6.666666507720947,10.0,,,,,,Reduced
+Syrian Arab Republic,Quneitra,Quneitra,1554,Khan Arnaba,2791,01/06/2023,Very High Risk,3.818656206130981,6.0,10.0,0.0,10.0,10.0,7.142857074737549,5.0,6.25,10.0,Full
+Syrian Arab Republic,Homs,Homs,1897,Qaryatein,2791,01/06/2023,Very High Risk,3.735649824142456,7.0,4.166666507720947,0.8333333134651184,7.5,9.166666984558104,4.285714149475098,5.0,7.5,10.0,Full
+Syrian Arab Republic,Homs,Ar-Rastan,1927,Ar-Rastan,4970,22/01/2025,Medium Risk,5.28399658203125,8.75,3.3333332538604736,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,Al Bab,2677,Der Hafir,2791,01/06/2023,Very High Risk,3.501675128936768,4.0,10.0,0.0,7.9166669845581055,10.0,4.285714149475098,5.0,7.5,10.0,Full
+Syrian Arab Republic,Homs,Homs,1931,Hula,4970,22/01/2025,Medium Risk,6.070864200592041,10.0,3.3333332538604736,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,Rural Damascus,2681,Kisweh,2791,01/06/2023,Medium Risk,4.830604076385498,8.0,10.0,3.3333332538604736,8.75,10.0,7.142857074737549,1.6666666269302368,8.75,10.0,Full
+Syrian Arab Republic,Rural Damascus,Rural Damascus,2681,Kisweh,4970,22/01/2025,Very High Risk,3.835064888000488,8.75,10.0,0.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Quneitra,Quneitra,2690,Al Kom,2791,01/06/2023,Very High Risk,3.540145874023437,6.0,10.0,0.0,7.5,10.0,7.142857074737549,5.0,3.75,10.0,Full
+Syrian Arab Republic,Damascus,Damascus,1112,Sheikh Sa'ad,4970,22/01/2025,Low Risk,9.40625,8.75,10.0,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,As-Sanamayn,1119,As-Sanamayn,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Idleb,Idleb,1550,Bennsh,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,5278,Quriyeh,2791,01/06/2023,High Risk,4.08959436416626,3.0,8.333333015441895,3.3333332538604736,7.5,10.0,4.285714149475098,1.6666666269302368,6.25,10.0,Full
+Syrian Arab Republic,Tartous,Sheikh Badr,5932,Sheikh Badr,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Homs,Tall Kalakh,2685,Hawash,4970,22/01/2025,Low Risk,9.641471862792969,10.0,10.0,9.166666984558104,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Dar'a,2679,Al Balad,2791,01/06/2023,Medium Risk,5.638398170471191,5.0,10.0,5.0,10.0,10.0,6.428571224212647,3.3333332538604736,10.0,7.5,Full
+Syrian Arab Republic,Hama,As-Salamiyeh,1948,As-Salamiyeh,4970,22/01/2025,Low Risk,6.581283092498779,10.0,5.833333492279053,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Al-Hasakeh,Al-Malikeyyeh,5255,Maabada,2791,01/06/2023,Very High Risk,3.647585153579712,4.0,10.0,0.0,10.0,5.0,8.571428298950195,5.0,8.75,10.0,Full
+Syrian Arab Republic,Lattakia,Al-Qardaha,5929,Qurdaha,2791,01/06/2023,Very High Risk,3.558053731918335,4.0,10.0,0.0,8.75,10.0,5.714285850524902,5.0,8.75,7.5,Full
+Syrian Arab Republic,Homs,Al Makhrim,2682,Al Makhrim,2791,01/06/2023,Medium Risk,5.581764221191406,10.0,10.0,3.3333332538604736,7.5,8.333333015441895,5.0,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,5253,Maadan,4970,22/01/2025,Low Risk,6.950663566589356,8.75,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,At Tall,1549,At-Tall,2791,01/06/2023,Very High Risk,4.431180477142334,9.0,10.0,0.8333333134651184,7.5,10.0,6.428571224212647,6.666666507720947,7.5,10.0,Full
+Syrian Arab Republic,Dar'a,Izra',2523,Izr'a,4970,22/01/2025,Low Risk,7.1084065437316895,10.0,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,Afrin,1949,Afrin,2791,01/06/2023,Low Risk,5.997741222381592,5.0,10.0,10.0,8.75,10.0,7.857142925262451,3.3333332538604736,8.75,10.0,Full
+Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,1127,Ar-Raqqa,4970,22/01/2025,Very High Risk,3.991675853729248,10.0,10.0,0.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Homs,Homs,1929,Inshaat,4970,22/01/2025,Low Risk,10.0,10.0,10.0,10.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Rural Damascus,At Tall,1549,At-Tall,4970,22/01/2025,Low Risk,7.625959873199463,10.0,10.0,5.833333492279053,10.0,,,,,,Reduced
+Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,5278,Quriyeh,4970,22/01/2025,Very High Risk,3.991675853729248,10.0,10.0,0.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Dar'a,Dar'a,1555,Mzeireb,4970,22/01/2025,Low Risk,6.79262638092041,7.5,10.0,5.0,10.0,,,,,,Reduced
+Syrian Arab Republic,Aleppo,Al Bab,1144,Al Bab,4970,22/01/2025,Very High Risk,3.991675853729248,10.0,10.0,0.0,10.0,,,,,,Reduced
+
+
+
+Follow these instructions carefully:
+1. Begin with a title followed by short **narrative paragraph** that summarizes the key overall trends in the observed period. Embed important figures and percentage changes smoothly in the text. Use neutral, formal language.
+2. Then, write a bullet list of **6–7 factual observations**. Each bullet must:
+   - Focus on one specific trend or comparison
+   - Include **numerical values**
+   - Include a **date or date range** (e.g., “in January 2024”, “from Feb 2023 to April 2024”, “as of March 2024”)
+   - Present the information as a **real-world fact**, not as an analysis
+3. Avoid phrases like “the data shows”, “the dataset contains”, or “analysis reveals”. This is not a data report — it is a factual summary of real-world conditions, written for policymakers, donors, and field teams.
+4. You may refer to governorates, districts, or markets by name where relevant. Do not mention the source of the data or the existence of a dataset.
+5. Be concise, objective, and professional. Focus on what changed, when it changed, and where it changed.
+The report should read like a situational overview — useful for briefing stakeholders on recent market or accessibility trends.
