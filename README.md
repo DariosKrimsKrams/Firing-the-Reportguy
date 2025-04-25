@@ -7,8 +7,8 @@ This project aims to automate the extraction, processing, summarization, and rep
 
 ## Features
 
--  Web scraping via Python for real-time data extraction.
--  Data handling and analysis using CSV and 
+-  Web scraping via Python for data extraction.
+-  Data handling and analysis using CSV files.
 -  Summary generation using LLM APIs.
 -  Automatic PDF report generation from HTML.
 -  FrontEnd Prototyping
