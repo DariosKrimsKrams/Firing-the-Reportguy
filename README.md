@@ -9,7 +9,7 @@ This project aims to automate the extraction, processing, summarization, and rep
 
 -  Web scraping via Python for data extraction.
 -  Data handling and analysis using CSV files.
--  Summary generation using LLM APIs.
+-  Summary generation of CSV using LLM APIs.
 -  Automatic PDF report generation from HTML.
 -  FrontEnd Prototyping
 
@@ -27,7 +27,13 @@ The system architecture is outlined below:
 - **Front End**: User interface for interaction.
 - **Python Scraping**: Extracts data from the WFP website.
 - **CSV**: Stores structured data (market assessments, commodity prices, exchange rates).
-- **LLM API + Matplotlib**: Analyzes and summarizes data + generates visual insights.
+- **LLM API + Matplotlib**: Analyzes and summarizes data(from csv files) + generates visual insights.
 - **HTML Report Generator**: Converts data and visuals into a readable format.
 - **HTML to PDF**: Finalizes report for download and distribution.
+
+### Source Code for Prompt Engineering:
+- Available at Cheftreff_prompting.ipynb
+- Different Prompts were tested, including the whole dataset/including a summary and statistics of datasets in the prompt 
+
+  
 
