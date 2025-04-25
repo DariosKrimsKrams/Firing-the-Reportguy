@@ -1,9 +1,12 @@
 # Firing-the-Reportguy
+
 Welcome to **Team_R**'s official submission for the **Cheftreff Hackathon**!
+
 
 ##  Project Overview
 
 This project aims to automate the extraction, processing, summarization, and reporting of global market data such as commodity prices, market assessments, and exchange rates from the **WFP (World Food Programme)** website. 
+
 
 ## Features
 
@@ -14,6 +17,7 @@ This project aims to automate the extraction, processing, summarization, and rep
 -  FrontEnd Prototyping
 
 ---
+
 
 ##  Architecture
 
